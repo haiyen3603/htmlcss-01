@@ -165,6 +165,8 @@ a {
 }
 
 .clients .branch {
+    display: flex;
+    align-items: center;
     margin-top: 70px;
 }
 
