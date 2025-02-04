@@ -71,7 +71,7 @@ a {
     padding-top: 22px;  
     position: relative;
     background: #e6f0ff;
-    height: 100vh;
+    height: calc(100vh - 82px);
 }
 
 .nav-bar {
